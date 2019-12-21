@@ -14,4 +14,4 @@
 
 <h2 align="center">Figma Link</>
 
-<p></p>
+<p>https://www.figma.com/proto/ZRDVVwUbj3rlvAqM7PUjVX/Untitled?node-id=1%3A82&scaling=scale-down</p>
